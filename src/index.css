@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+ 
+}
+
+
+.mainFont {
+  font-family:'Cairo', sans-serif;
+  font-weight: 500;
+}
+
+.avatar-img{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.desc{
+  border: 2px red solid;
+}
